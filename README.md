@@ -9,6 +9,7 @@ The code is not described in detail, in order to properly understand it one may 
 In the notebook are reproduced many simulation which are presented by the authors in the additional materials (called "Extra" in the notebook) of the article.
 In the notebook there is a visualization of how metabolic strategies evolve with time, this is a little contribution of mine in addition to what is presented in the article.
 * figD3.png  : consumers density over time, a simulation of the new dynamic model introduced in the paper
+* figD5.png  : symplex representation of the metabolic strategies of previous simulation
 * figD1.png  : consumers density over time, a simulation of MacArthur CR model with same parameters of the previous simulation: there is no dynamic adaptation here and many species died.
 * gif1.ipynb : an example of a gif obtained with the presented code 
 
