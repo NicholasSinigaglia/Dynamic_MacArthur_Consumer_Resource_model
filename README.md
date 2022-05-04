@@ -1,4 +1,4 @@
-# Dynamic_MacArthur_Consumer_Resource_model Public
+# Dynamic MacArthur Consumer Resource model Public
 
 
 What is contained in this repository:
